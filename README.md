@@ -3,7 +3,7 @@
 - **Name:** Muhammad Rahil Arshad
 - **Reference:** MATACS-TH-2026-02
 - **Role:** Associate Software Developer
-- **Time actually spent:** (apna asal time, jaise "about 2 hours including review")
+- **Time actually spent:** almost 1 hour
 
 ## Files
 - [WRITEUP.md](WRITEUP.md): answers to the five questions (under 1,000 words)
