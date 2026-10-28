@@ -17,7 +17,8 @@ Run the optional script with `python prototype/score.py` (Python 3, no packages 
 
 ## How I used AI tools
 I used Claude to help draft the process design, the extraction prompt, the scoring formulas and the write-up, and I reviewed the result before submitting.
-**Where I disagreed with or corrected the AI:** (ek asli cheez jo tum ne review mein badli ya theek ki, aur kyun)
+
+**Where I disagreed with or corrected the AI:** Claude only mentioned C's "since 2020" install count in the assumptions section of the write-up. I decided it should also appear in C's flag reason in `ranking.json`, because the reviewer sees that file first and installs older than 5 years should not count towards experience.
 
 ## Notes
 - Proposals are referred to by letter only; no brief or proposal text is copied here.

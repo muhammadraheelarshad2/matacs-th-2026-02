@@ -69,11 +69,11 @@ Criteria are saved as numbered versions. Every scoring run records the version i
 - **B ineligible:** electrical work is subcontracted and the licence holder is "to be confirmed", so the
   mandatory licence check fails despite the lowest price.
 - **C flagged:** it passes the mandatory checks (merit score about 77, third if cleared), but its text tries to
-  force rank 1; that instruction is ignored, and a person decides.
+  force rank 1 (ignored), and its "since 2020" install count may include work older than 5 years; a person decides.
 - **D flagged:** no completion time, so the 16-week limit cannot be verified; ask the bidder to clarify
   (about 70 if the timeline were scored 0, up to about 85 if it matched the fastest bid).
 
 ## Assumptions
-- "Since 2021" and "last 5 years" were treated as within the window; C's "since 2020" may partly be outside it,
-  which a reviewer should check.
+- "Since 2021" was treated as within the last 5 years. C's "since 2020" may include installs older than 5 years,
+  so I flagged this for the reviewer as a second reason on C.
 - "Named lead" means the proposal says a named lead exists. Formulas are my choices for the exercise.
